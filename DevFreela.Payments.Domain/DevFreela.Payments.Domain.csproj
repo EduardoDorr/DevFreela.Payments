@@ -5,11 +5,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-
-
-<ItemGroup>
-<Folder Include="DomainErrors" />
-<Folder Include="DomainResults" />
-</ItemGroup>
 </Project>
